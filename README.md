@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Welcome to my GitHub! I'm a Data Analyst with a solid foundation in using data to extract meaningful insights and solve complex problems. I have extensive experience with SQL, Python, Tableau, Excel, and VBA, and I specialize in data manipulation, cleaning, visualization, and building interactive dashboards.
+
+On this GitHub, you’ll find a collection of my projects that showcase my skills in data analysis, data wrangling, statistical modeling, and data visualization. I focus on delivering clear, actionable insights through clean, efficient code and well-structured analyses.
+
+Feel free to explore my work, contribute, or reach out if you’re interested in collaborating or sharing feedback. I’m always excited to connect with fellow data professionals and learn new techniques.
